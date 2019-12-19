@@ -1,4 +1,4 @@
-# Scanner-switch
+# Scanner i switch
 1. Stwórz program, który poprosi użytkownika o podanie wartości liczbowej. Następnie program wypisze wszystkie liczby naturalne, aż do zadanej.
 
 2. Stwórz program, który poprosi użytkownika o podanie dwóch wartości - długości boków prostokąta. Następnie wypisze pole takiego prostokąta.
