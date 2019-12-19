@@ -33,6 +33,9 @@ public class Scanner3 {
                 b = scan.nextInt();
                 System.out.println("Pole trójkąta wynosi: " + (a * b) / 2);
                 break;
+            default:
+                System.out.println("Podałeś złą nazwę figury.");
+                break;
         }
     }
 }
